@@ -40,4 +40,5 @@ printf('Sum: %f\t%f\t%f\t%f\t%f\t\n',sx,sy,sx2,slny,sxlny);
 printf('e^lna: %f\n',e);
 printf('b: %f\n',A1b(2,1));
 printf('La ecuacion del modelo es: %f ^ %fx \n',e,A1b(2,1));
+printf('El coeficiente de determinacion es: %f \n',r2);
 printf('el coeficiente es: %f \n',r);

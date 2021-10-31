@@ -45,5 +45,6 @@ printf('Sum:%f\t%f\t%f\t%f\t%f\t%f\t%f\t%f\t%f\t\n',sx,sy,sx2,sx3,sx4,sxy,sx2y,s
 printf('\n');
 printf('promedio y:%f\n',py);
 printf('La ecuacion del modelo es: %f + %fx + %fx^2 \n',G(1,4),G(2,4),G(3,4));
+printf('El coeficiente de determinacion es: %f \n',r2);
 printf('el coeficiente es: %f \n',r);
 

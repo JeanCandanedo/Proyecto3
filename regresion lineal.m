@@ -35,4 +35,5 @@ printf('Promedio: %f\t%f\n',mx,my);
 printf('a0: %f\n',A1b(1,1));
 printf('a1: %f\n',A1b(2,1));
 printf('La ecuacion del modelo es: %f + %fx \n',A1b(1,1),A1b(2,1));
+printf('El coeficiente de determinacion es: %f \n',r2);
 printf('El coeficiente de correlacion es: %f ',r);
